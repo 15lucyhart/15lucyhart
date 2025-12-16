@@ -1,5 +1,5 @@
 ---
-title: "15lucyhart"
+title: "Lucy Hart"
 image: www/GradPic.JPG
 about: 
   template: trestles
