@@ -9,8 +9,9 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About Me   
-
+        text: About Me 
+      - href: LucyHartMasterResume.pdf
+        text: Resume
 format:
   html:
     theme:
@@ -18,6 +19,8 @@ format:
       - brand
     css: styles.css
     toc: true
+    
+  
 
 editor: visual
 
