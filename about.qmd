@@ -1,9 +1,9 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+Hi! My name is Lucy Hart and I am a student in the Professional Science Master's in Ecosystem Science and Sustainability program.
 
-```{r}
-1 + 1
-```
+I love exploring the outdoors, playing soccer, snowboarding, running, hiking, and traveling.
+
+I am a salesperson and the marketing lead at a ski and snowboard shop in Colorado Springs.
