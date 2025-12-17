@@ -11,7 +11,7 @@ about:
     - text: GitHub
       href: https://github.com/15lucyhart/Intro-Git-GitHub
     - text: Email
-      href: Lucille.hart@colostate.edu
+      href: Lucille.hart@colostate.edu 
 ---
 
 Education:
