@@ -9,9 +9,20 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About Me 
-      - href: LucyHartMasterResume.pdf
+        text: About Me
+      - href: Resume.qmd
         text: Resume
+      - href: www/LucyHartResume.pdf
+        text: Resume PDF
+      - href: Fountain.qmd
+        text: Fountain Creek Watershed District
+      - href: RockyMtn.qmd
+        text: Rocky Mountain Ski and Sport
+      - href: Snowboarding.qmd
+        text: Snowboarding
+      - href: Soccer.qmd
+        text: Soccer
+
 format:
   html:
     theme:
@@ -19,8 +30,6 @@ format:
       - brand
     css: styles.css
     toc: true
-    
-  
 
 editor: visual
 
