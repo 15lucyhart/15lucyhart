@@ -3,7 +3,7 @@ title: "Lucy Hart"
 image: www/GradPic.JPG
 about: 
   template: trestles 
-  image-shape: round
+  image-shape: round 
   image-width: 15em
   links:
     - text: LinkedIn
