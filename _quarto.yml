@@ -22,7 +22,7 @@ website:
         text: Snowboarding
       - href: Soccer.qmd
         text: Soccer
-
+ 
 format:
   html:
     theme:
